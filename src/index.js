@@ -22,7 +22,7 @@ const Dog = class extends Animal {
 }
 
 let dogs = [
-    new Dog ("./images/taci.jpeg","Scooby-Doo", 4, 52),
+    new Dog ("images/scoobydoo.jpeg","Scooby-Doo", 4, 52),
     new Dog ("images/droopy.jpeg","Droopy", 4, 65),
     new Dog ("images/taci.jpeg","Taci", 4, 75),
     new Dog ("images/findik.jpeg", "Fındık", 4, 1) 
